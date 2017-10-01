@@ -24,7 +24,7 @@ mvn clean install
 mvn spring-boot:run
 ```
 
-## Bring it up on the web browser
+## Fire it Up!
 
 http://localhost:8080/
 
