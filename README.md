@@ -18,3 +18,9 @@ mvn spring-boot:run
 ## Bring it up on the web browser
 
 http://localhost:8080/
+
+##Reference
+For more information please see
+
+http://javasampleapproach.com/java-integration/integrate-angular-4-springboot-web-app-springtoolsuite
+
