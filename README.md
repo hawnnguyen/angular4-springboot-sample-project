@@ -3,7 +3,7 @@
 angular4-springboot-sample-project 
 Demonstrates usage of Angular CLI how to integreate it into springboot.
 
-##Prerequisite
+## Prerequisite
 You must have the following setups to proceed:
 
 1. Setup for Node.js and Npm installed. 
@@ -12,7 +12,11 @@ You must have the following setups to proceed:
 3. Maven Installed 3.2 or higher (https://maven.apache.org)
 
 
-## SpringBoot
+## Building Angular CLI and SpringBoot
+
+The springboot project has the plugins configured to trigger the Angular CLI build and integrates into the SpringBoot application (please see the pom.xml for more info under "heros-angular-springboot").  
+
+After you git clone this repo please perform the following:
 
 ```linux
 cd heros-angular-springboot
