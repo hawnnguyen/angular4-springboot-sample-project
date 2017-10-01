@@ -11,6 +11,9 @@ You must have the following setups to proceed:
 2. JDK 1.8
 3. Maven Installed 3.2 or higher (https://maven.apache.org)
 
+## Building Angular
+
+The projects are loosely coupled so you can just run and build the Angular CLI without the Springboot project.  Please go into the herios-digital-product folder for further instructions  
 
 ## Building Angular CLI and SpringBoot
 
