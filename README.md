@@ -1,7 +1,7 @@
 # README.md
 
 angular4-springboot-sample-project 
-Demonstrates usage of Angular CLI how to integreate it into springboot.
+Demonstrates usage of Angular CLI how to integrate it into springboot.
 
 ## Prerequisite
 You must have the following setups to proceed:
