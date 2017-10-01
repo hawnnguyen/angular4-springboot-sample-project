@@ -13,6 +13,4 @@ mvn spring-boot:run
 
 ## Bring it up on the web browser
 
-```
 http://localhost:8080/
-```
