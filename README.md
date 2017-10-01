@@ -3,6 +3,10 @@
 angular4-springboot-sample-project 
 Demonstrates usage of Angular CLI how to integreate it into springboot.
 
+##Prerequisite
+You have the Setup for Node.js and Npm installed. Please see http://angular.io
+to Setup your local Development Enviiornment
+
 ## SpringBoot
 
 ```python
